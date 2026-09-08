@@ -11,13 +11,13 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
-COPY backend-consulting/requirements.txt .
+COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
-COPY backend-consulting/. .
+COPY . .
 
-RUN cd backend-consulting && python src/manage.py collectstatic --noinput || true
+RUN python src/manage.py collectstatic --noinput || true
 
 RUN useradd --create-home --shell /bin/bash appuser && \
     mkdir -p /app/src/media && \
@@ -26,4 +26,4 @@ USER appuser
 
 EXPOSE 8000
 
-CMD ["sh", "-c", "cd backend-consulting && python src/manage.py migrate --noinput && gunicorn config.wsgi:application --bind 0.0.0.0:${PORT:-8000} --workers ${GUNICORN_WORKERS:-3} --timeout 60 --access-logfile - --error-logfile -"]
+CMD ["sh", "-c", "python src/manage.py migrate --noinput && gunicorn config.wsgi:application --bind 0.0.0.0:${PORT:-8000} --workers ${GUNICORN_WORKERS:-3} --timeout 60 --access-logfile - --error-logfile -"]

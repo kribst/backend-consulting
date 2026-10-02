@@ -1,0 +1,30 @@
+# Secrets / local config
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Django / local artifacts
+src/db.sqlite3
+src/db.sqlite3-journal
+src/staticfiles/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Railway
+.railway/
+

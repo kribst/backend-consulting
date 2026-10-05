@@ -1,12 +1,67 @@
 from django.contrib import admin
 from django.utils.html import format_html
 
-from .models import SiteContent, Testimonial, TeamMember
+from .models import Actualite, Service, SiteContent, Testimonial, TeamMember
 
 
 @admin.register(SiteContent)
 class SiteContentAdmin(admin.ModelAdmin):
-	list_display = ("id", "updated_at")
+	list_display = ("id", "actualite_count", "updated_at")
+
+	def actualite_count(self, obj):
+		return Actualite.objects.count()
+	actualite_count.short_description = "Nombre d’actualités"
+
+
+@admin.register(Actualite)
+class ActualiteAdmin(admin.ModelAdmin):
+	list_display = ("title", "category", "datePublication", "heurePublication", "position", "updated_at")
+	list_display_links = ("title",)
+	list_editable = ("position",)
+	search_fields = ("title", "category", "slug")
+	list_filter = ("category", "datePublication")
+	ordering = ("position", "id")
+	fields = (
+		"position",
+		"title",
+		"slug",
+		"category",
+		"datePublication",
+		"heurePublication",
+		"image",
+		"imageAlt",
+		"content",
+		"updated_at",
+	)
+	readonly_fields = ("updated_at",)
+
+
+@admin.register(Service)
+class ServiceAdmin(admin.ModelAdmin):
+	list_display = ("title", "slug", "icon", "position", "updated_at")
+	list_display_links = ("title",)
+	list_editable = ("position",)
+	search_fields = ("title", "slug", "summary", "description")
+	ordering = ("position", "id")
+	fields = (
+		"position",
+		"title",
+		"slug",
+		"icon",
+		"summary",
+		"description",
+		"image",
+		"imageAlt",
+		"keyPoints",
+		"includes",
+		"audience",
+		"benefits",
+		"useCases",
+		"process",
+		"relatedSlugs",
+		"updated_at",
+	)
+	readonly_fields = ("updated_at",)
 
 
 @admin.register(Testimonial)

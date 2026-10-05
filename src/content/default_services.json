@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "title": "Conseil juridique.",
+    "slug": "conseil-juridique-et-fiscal",
+    "icon": "scale",
+    "summary": "Un accompagnement juridique pour vos optimiser vos solutions.",
+    "description": "FALKAOH CONSULTING accompagne les personnes physiques et morales dans les procédures de défense de leurs intérêts juridiques et fiscaux, en offrant un soutien expert auprès des autorités compétentes et des organismes douaniers.",
+    "image": "/images/juridique-fiscal.jpg",
+    "imageAlt": "Avocats et consultants en réunion juridique",
+    "keyPoints": [
+      "Défense juridique",
+      "Optimisation fiscale",
+      "Conformité réglementaire",
+      "Conseil en droit des affaires"
+    ],
+    "includes": [
+      "Conseil en droit fiscal",
+      "Défense des intérêts juridiques",
+      "Accompagnement dans les procédures administratives",
+      "Optimisation de la fiscalité",
+      "Veille réglementaire",
+      "Révision de contrats",
+      "Conformité légale et fiscale",
+      "Representation devant les autorités compétentes"
+    ],
+    "audience": [
+      "Personnes physiques",
+      "Personnes morales",
+      "Dirigeants",
+      "Organisations cherchant un accompagnement juridique"
+    ],
+    "benefits": [
+      "Protéger ses intérêts juridiques",
+      "Optimiser sa situation fiscale",
+      "Réduire les risques de contentieux",
+      "Bénéficier d’un accompagnement juridique expert"
+    ],
+    "useCases": [
+      "Assistance dans une procédure administrative",
+      "Optimisation fiscale d’une structure",
+      "Défense d’un intérêt juridique",
+      "Veille réglementaire sur mesure"
+    ],
+    "process": [
+      "Écoute du besoin juridique ou fiscal",
+      "Analyse de la situation",
+      "Élaboration de la stratégie de défense",
+      "Accompagnement et suivi des démarches"
+    ],
+    "relatedSlugs": [
+      "etudes-recherches",
+      "controle-audit",
+      "realisation-projets-etudes-faisabilite"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Gouvernance, Démocratie, Droit de l’Homme  ",
+    "slug": "Gouvernance, Démocratie, Droit de l’Homme  ",
+    "icon": "landmark",
+    "summary": "Un accompagnement des pouvoirs publics, du secteur privé, des OSC et partenaires au développement pour promouvoir une bonne gouvernance et le respect des droits humains.",
+    "description": "FALKAOH CONSULTING accompagne les pouvoirs publics, le secteur privé et les organisations de la société civile dans la promotion et la vulgarisation de la bonne gouvernance, du respect des droits humains et du renforcement de la démocratie.",
+    "image": "/images/droit.jpg",
+    "imageAlt": "Réunion de gouvernance avec représentants institutionnels",
+    "keyPoints": [
+      "Bonne gouvernance",
+      "Droits de l’homme",
+      "Démocratie participative",
+      "Cadres institutionnels"
+    ],
+    "includes": [
+      "Conception de politiques de gouvernance",
+      "Formation aux droits de l’homme",
+      "Accompagnement des réformes démocratiques",
+      "Vulgarisation des principes de gouvernance",
+      "Appui à la mise en œuvre de cadres juridiques",
+      "Évaluation des pratiques de gouvernance",
+      "Ateliers sur la démocratie participative",
+      "Appui aux OSC sur les droits humains"
+    ],
+    "audience": [
+      "Pouvoirs publics",
+      "Secteur privé",
+      "Organisations de la société civile",
+      "Institutions démocratiques"
+    ],
+    "benefits": [
+      "Renforcer la légitimité institutionnelle",
+      "Promouvoir les droits fondamentaux",
+      "Améliorer la transparence et l’accountabilité",
+      "Faire participer les citoyens au processus décisionnel"
+    ],
+    "useCases": [
+      "Réforme d’une institution publique",
+      "Mise en place d’un dispositif de gouvernance",
+      "Formation à la démocratie participative",
+      "Évaluation d’un cadre de droits humains"
+    ],
+    "process": [
+      "Diagnostic des pratiques de gouvernance",
+      "Analyse des besoins et des acteurs",
+      "Élaboration des recommandations",
+      "Accompagnement à la mise en œuvre et suivi"
+    ],
+    "relatedSlugs": [
+      "politiques-de-developpement",
+      "genre-et-developpement",
+      "cooperation-developpement"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Genre et Développement",
+    "slug": "genre-et-developpement",
+    "icon": "users",
+    "summary": "Un renforcement des capacités et une vulgarisation des outils techniques et pédagogiques au service de l’égalité des sexes et du développement durable.",
+    "description": "FALKAOH CONSULTING renforce les capacités des pouvoirs publics, du secteur privé et des OSC et vulgarise les outils techniques et pédagogiques nécessaires pour intégrer le genre et le développement dans toutes les politiques et actions.",
+    "image": "/images/genre.jpg",
+    "imageAlt": "Atelier de formation sur le genre et le développement",
+    "keyPoints": [
+      "Intégration du genre",
+      "Développement durable",
+      "Outils pédagogiques",
+      "Égalité des sexes"
+    ],
+    "includes": [
+      "Ateliers de sensibilisation au genre",
+      "Formation aux outils techniques de genre",
+      "Élaboration de fiches de vulgarisation",
+      "Renforcement des capacités institutionnelles",
+      "Appui à l’élaboration de politiques genrées",
+      "Mise à jour des curricula et modules pédagogiques",
+      "Évaluation des impacts genre",
+      "Accompagnement des équipes projet"
+    ],
+    "audience": [
+      "Pouvoirs publics",
+      "Secteur privé",
+      "Organisations de la société civile",
+      "Équipes de projet et développeurs"
+    ],
+    "benefits": [
+      "Intégrer le genre dans les politiques publiques",
+      "Renforcer les capacités techniques et pédagogiques",
+      "Promouvoir l’égalité des sexes dans le développement",
+      "Améliorer la pertinence des actions de développement"
+    ],
+    "useCases": [
+      "Formation d’équipes à l’approche genre",
+      "Vulgarisation d’outils techniques de genre",
+      "Évaluation d’une politique au prisme du genre",
+      "Atelier de partage d’expériences genre-développement"
+    ],
+    "process": [
+      "Analyse des besoins en genre et développement",
+      "Sélection et adaptation des outils pédagogiques",
+      "Conception des modules de formation",
+      "Animation, suivi et évaluation"
+    ],
+    "relatedSlugs": [
+      "gouvernance-democratie-droit-de-l-homme",
+      "politiques-de-developpement",
+      "cooperation-developpement"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Politiques de Développement",
+    "slug": "politiques-de-developpement",
+    "icon": "clipboard-list",
+    "summary": "Un accompagnement complet pour concevoir, mettre en œuvre, suivre et pérenniser des politiques publiques de développement.",
+    "description": "FALKAOH CONSULTING accompagne les pouvoirs publics et leurs partenaires dans la conception, la mise en œuvre, le suivi-évaluation et la pérennisation des politiques publiques de développement, en assurant un appui technique et stratégique de qualité.",
+    "image": "/images/politique.jpg",
+    "imageAlt": "Atelier d’élaboration de politiques de développement",
+    "keyPoints": [
+      "Conception de politiques",
+      "Suivi-évaluation",
+      "Pérennisation",
+      "Appui technique"
+    ],
+    "includes": [
+      "Études de faisabilité politique",
+      "Conception de politiques de développement",
+      "Appui à la mise en œuvre opérationnelle",
+      "Mécanismes de suivi-évaluation",
+      "Appui à la pérennisation des politiques",
+      "Ateliers de programmation et de budgétisation",
+      "Capitalisation et diffusion des bonnes pratiques",
+      "Renforcement des capacités institutionnelles"
+    ],
+    "audience": [
+      "Pouvoirs publics",
+      "Partenaires au développement",
+      "Ministères et institutions publiques",
+      "Organismes de coopération"
+    ],
+    "benefits": [
+      "Concevoir des politiques cohérentes et pertinentes",
+      "Assurer un suivi-évaluation rigoureux",
+      "Garantir la pérennité des interventions",
+      "Bénéficier d’un appui technique de qualité"
+    ],
+    "useCases": [
+      "Élaboration d’une politique sectorielle",
+      "Mise en place d’un dispositif de suivi-évaluation",
+      "Atelier de programmation budgétaire",
+      "Diagnostic de pérennisation d’un projet"
+    ],
+    "process": [
+      "Analyse du contexte et des besoins",
+      "Conception des politiques et instruments",
+      "Appui à la mise en œuvre",
+      "Suivi-évaluation et capitalisation"
+    ],
+    "relatedSlugs": [
+      "gouvernance-democratie-droit-de-l-homme",
+      "genre-et-developpement",
+      "cooperation-developpement"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Eau, Environnement & Climat",
+    "slug": "Eau-Environnement-&-Climat",
+    "icon": "leaf",
+    "summary": "Des actions concrètes en faveur de l’eau, de l’assainissement, de l’environnement et de la transition écologique.",
+    "description": "FALKAOH CONSULTING met en œuvre des actions et des projets en faveur de l’eau et de l’assainissement, de l’environnement et de la transition écologique, en s’appuyant sur des pratiques durables et innovantes pour les communautés et les organisations.",
+    "image": "/images/eau.jpg",
+    "imageAlt": "Action de restauration environnementale et gestion de l’eau",
+    "keyPoints": [
+      "Gestion de l’eau",
+      "Assainissement",
+      "Environnement",
+      "Transition écologique"
+    ],
+    "includes": [
+      "Études d’impact environnemental",
+      "Projets de gestion de l’eau et assainissement",
+      "Stratégies de transition écologique",
+      "Formation aux bonnes pratiques environnementales",
+      "Ateliers de sensibilisation à l’environnement",
+      "Appui à la mise en œuvre de projets verts",
+      "Évaluation des bénéfices environnementaux",
+      "Renforcement des capacités locales"
+    ],
+    "audience": [
+      "Pouvoirs publics",
+      "Collectivités locales",
+      "Organismes de coopération",
+      "Communautés locales"
+    ],
+    "benefits": [
+      "Réduire l’impact environnemental",
+      "Améliorer l’accès à l’eau et à l’assainissement",
+      "Favoriser des pratiques durables",
+      "Renforcer la résilience face au changement climatique"
+    ],
+    "useCases": [
+      "Projet de gestion intégrée de l’eau",
+      "Plan de transition écologique",
+      "Atelier de sensibilisation environnementale",
+      "Évaluation d’un projet vert"
+    ],
+    "process": [
+      "Analyse du contexte environnemental",
+      "Conception du projet ou de l’action",
+      "Mise en œuvre et suivi terrain",
+      "Évaluation et capitalisation"
+    ],
+    "relatedSlugs": [
+      "etudes-recherches",
+      "controle-audit",
+      "cooperation-developpement"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Coopération pour le Développement",
+    "slug": "cooperation-developpement",
+    "icon": "handshake",
+    "summary": "Un accompagnement des pouvoirs publics, du secteur privé, des OSC, pour mobiliser les partenaires techniques et financiers.",
+    "description": "FALKAOH CONSULTING accompagne les pouvoirs publics, le secteur privé et les organisations de la société civile dans la mobilisation des partenaires techniques et financiers internationaux pour la réalisation des projets de développement.",
+    "image": "/images/cooperation.jpg",
+    "imageAlt": "Réunion de mobilisation des partenaires au développement",
+    "keyPoints": [
+      "Partenariats stratégiques",
+      "Financement au développement",
+      "Appui technique",
+      "Mobilisation de partenaires"
+    ],
+    "includes": [
+      "Analyse des besoins en financement",
+      "Identification et mobilisation des partenaires",
+      "Appui à la négociation de partenariats",
+      "Assistance à la rédaction de projets",
+      "Suivi de la coopération et de l’aide",
+      "Évaluation des mécanismes de financement",
+      "Ateliers de renforcement des capacités",
+      "Capitalisation sur les bonnes pratiques"
+    ],
+    "audience": [
+      "Pouvoirs publics",
+      "Organismes de coopération",
+      "Organisations de la société civile",
+      "Secteur privé engagé"
+    ],
+    "benefits": [
+      "Accroître le financement du développement",
+      "Renforcer les partenariats stratégiques",
+      "Sécuriser l’appui technique et financier",
+      "Améliorer la cohérence des interventions"
+    ],
+    "useCases": [
+      "Mobilisation de financements internationaux",
+      "Atelier de priorisation des besoins",
+      "Accompagnement à la rédaction d’un projet",
+      "Évaluation d’un partenariat de coopération"
+    ],
+    "process": [
+      "Diagnostic des besoins et du paysage des partenaires",
+      "Stratégie de mobilisation",
+      "Appui à la mise en œuvre et suivi",
+      "Évaluation et capitalisation"
+    ],
+    "relatedSlugs": [
+      "gouvernance-democratie-droit-de-l-homme",
+      "genre-et-developpement",
+      "politiques-de-developpement"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Commerce International",
+    "slug": "commerce-international",
+    "icon": "store",
+    "summary": "Elaboration des plaidoyers, communications des articles scientifiques, vulgarisation des travaux de recherches, organisation d’ateliers, séminaires, colloques, conférences et cafés de réflexion dans nos domaines d’expertise.",
+    "description": "FALKAOH CONSULTING accompagne les acteurs du commerce international dans les procédures de dédouanement en zone CEMAC, ainsi que dans les stratégies de logistique et de transport pour optimiser les flux commerciaux transfrontaliers.",
+    "image": "/images/commerce.jpg",
+    "imageAlt": "Opérations de dédouanement et logistique portuaire",
+    "keyPoints": [
+      "Dédouanement CEMAC",
+      "Logistique internationale",
+      "Transport stratégique",
+      "Flux commerciaux"
+    ],
+    "includes": [
+      "Accompagnement aux procédures de dédouanement CEMAC",
+      "Conseil en logistique internationale",
+      "Optimisation des flux et modes de transport",
+      "Veille réglementaire douanière",
+      "Appui à la conformité commerciale",
+      "Analyse des coûts de transport",
+      "Formation aux procédures douanières",
+      "Audit des processus logistiques"
+    ],
+    "audience": [
+      "Entreprises commerciales internationales",
+      "Importateurs et exportateurs",
+      "Transitaires et logisticiens",
+      "Administrations douanières"
+    ],
+    "benefits": [
+      "Réduire les délais de dédouanement",
+      "Optimiser les coûts logistiques",
+      "Assurer la conformité réglementaire",
+      "Améliorer la traçabilité des flux"
+    ],
+    "useCases": [
+      "Déclaration en douane CEMAC",
+      "Optimisation d’une chaîne logistique",
+      "Audit de conformité transport",
+      "Formation des équipes à la logistique internationale"
+    ],
+    "process": [
+      "Analyse des procédures et flux existants",
+      "Diagnostic des points de friction",
+      "Recommandations et plan d’action",
+      "Accompagnement et suivi opérationnel"
+    ],
+    "relatedSlugs": [
+      "digitalisation",
+      "controle-audit",
+      "etude-conseil-architecture"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Etude, Conseil et Accompagnement en Architecture et Génie civil ",
+    "slug": "etude-conseil-architecture",
+    "icon": "building-2",
+    "summary": "Un accompagnement complet de l’étude architecturale à la réalisation, en passant par le suivi, l’évaluation et la réhabilitation.",
+    "description": "FALKAOH CONSULTING accompagne ses clients dans la réalisation des études architecturales, la mise en œuvre des projets, le suivi-évaluation ainsi que l’entretien et la réhabilitation des ouvrages architecturaux, en mobilisant une expertise pointue et un appui technique rigoureux.",
+    "image": "/images/conseils.jpg",
+    "imageAlt": "Étude architecturale et suivi de chantier",
+    "keyPoints": [
+      "Études architecturales",
+      "Conception architecturale",
+      "Suivi de projet",
+      "Réhabilitation"
+    ],
+    "includes": [
+      "Études de faisabilité architecturale",
+      "Conception de projets architecturaux",
+      "Appui à la réalisation des ouvrages",
+      "Suivi et évaluation des travaux",
+      "Entretien et réhabilitation des bâtiments",
+      "Audit des risques architecturaux",
+      "Coordination des équipes techniques",
+      "Gestion des dossiers d’exploitation"
+    ],
+    "audience": [
+      "Architectes",
+      "Promoteurs et aménageurs",
+      "Collectivités locales",
+      "Organismes publics et privés"
+    ],
+    "benefits": [
+      "Garantir la qualité architecturale",
+      "Assurer un suivi rigoureux des travaux",
+      "Optimiser la durabilité des ouvrages",
+      "Réduire les risques liés à la réalisation"
+    ],
+    "useCases": [
+      "Étude de faisabilité d’un projet",
+      "Suivi de chantier d’un bâtiment",
+      "Audit de réhabilitation d’un site",
+      "Évaluation post-occupation d’un ouvrage"
+    ],
+    "process": [
+      "Cadrage de l’étude architecturale",
+      "Conception et coordination technique",
+      "Suivi et évaluation des travaux",
+      "Capitalisation et réhabilitation"
+    ],
+    "relatedSlugs": [
+      "controle-audit",
+      "etudes-recherches",
+      "realisation-projets-etudes-faisabilite"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Digitalisation",
+    "slug": "digitalisation",
+    "icon": "monitor-smartphone",
+    "summary": "Un accompagnement des partenaires vers la dématérialisation de leur mode de gestion et de gouvernance.",
+    "description": "FALKAOH CONSULTING accompagne les partenaires institutionnels, les organisations et les structures dans la dématérialisation de leur mode de gestion et de gouvernance, en proposant des solutions numériques adaptées, sécurisées et évolutives.",
+    "image": "/images/digital.jpg",
+    "imageAlt": "Équipe travaillant sur une stratégie de digitalisation",
+    "keyPoints": [
+      "Transformation numérique",
+      "Gouvernance digitale",
+      "Solutions sur mesure",
+      "Sécurité des données"
+    ],
+    "includes": [
+      "Diagnostic de maturité numérique",
+      "Stratégie de dématérialisation",
+      "Conception d’applications et plateformes",
+      "Sécurisation des systèmes d’information",
+      "Formation aux outils numériques",
+      "Migration et modernisation des processus",
+      "Suivi et maintenance des solutions",
+      "Audit de la gouvernance digitale"
+    ],
+    "audience": [
+      "Administrations publiques",
+      "Organismes de coopération",
+      "Organisations professionnelles",
+      "Structures souhaitant se digitaliser"
+    ],
+    "benefits": [
+      "Moderniser les processus de gestion",
+      "Améliorer la gouvernance par les données",
+      "Réduire les coûts opérationnels",
+      "Sécuriser l’information et les échanges"
+    ],
+    "useCases": [
+      "Mise en place d’un système de gestion en ligne",
+      "Digitalisation des procédures internes",
+      "Plateforme de suivi de projet",
+      "Audit de la gouvernance numérique"
+    ],
+    "process": [
+      "Diagnostic de la situation actuelle",
+      "Définition de la stratégie digitale",
+      "Développement et déploiement",
+      "Formation, suivi et optimisation"
+    ],
+    "relatedSlugs": [
+      "commerce-international",
+      "etude-conseil-architecture",
+      "realisation-projets-etudes-faisabilite"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Contrôle, Audit",
+    "slug": "controle-audit",
+    "icon": "clipboard-check",
+    "summary": "Des études et audits complets (financiers, juridiques, opérationnels, informatiques et environnementaux) pour un diagnostic fiable.",
+    "description": "FALKAOH CONSULTING réalise des études et audits couvrant le contrôle financier et comptable, l’audit juridique et fiscal, l’audit opérationnel et organisationnel, l’audit informatique et cyber-sécurité, ainsi que l’audit environnemental et social, pour fournir un diagnostic complet et des recommandations actionnables.",
+    "image": "/images/audit.jpg",
+    "imageAlt": "Équipe d’audit analysant des données et documents comptables",
+    "keyPoints": [
+      "Audit financier et comptable",
+      "Audit juridique et fiscal",
+      "Audit opérationnel et organisationnel",
+      "Audit informatique et cyber-sécurité"
+    ],
+    "includes": [
+      "Audit financier et comptable",
+      "Audit juridique et fiscal",
+      "Audit opérationnel et organisationnel",
+      "Audit informatique et cyber-sécurité",
+      "Audit environnemental et social",
+      "Études de faisabilité et d’impact",
+      "Contrôle interne et gestion des risques",
+      "Rapport d’audit et recommandations"
+    ],
+    "audience": [
+      "Dirigeants et responsables",
+      "Organismes de tutelle",
+      "Investisseurs et bailleurs",
+      "Organisations cherchant un diagnostic complet"
+    ],
+    "benefits": [
+      "Diagnostiquer les points de risque",
+      "Améliorer la performance opérationnelle",
+      "Renforcer la conformité réglementaire",
+      "Optimiser les processus et la gestion"
+    ],
+    "useCases": [
+      "Audit financier d’un projet",
+      "Audit cyber-sécurité d’un système",
+      "Évaluation environnementale et sociale",
+      "Contrôle interne d’une organisation"
+    ],
+    "process": [
+      "Planification de l’audit",
+      "Collecte et analyse des données",
+      "Réalisation des tests et vérifications",
+      "Rédaction du rapport et recommandations"
+    ],
+    "relatedSlugs": [
+      "etude-conseil-architecture",
+      "etudes-recherches",
+      "realisation-projets-etudes-faisabilite"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Etudes et Recherches ",
+    "slug": "renforcement-capacites",
+    "icon": "users-round",
+    "summary": "Elaboration des plaidoyers, communications des articles scientifiques, vulgarisation des travaux de recherches, organisation d’ateliers, séminaires, colloques, conférences et cafés de réflexion dans nos domaines d’expertise.",
+    "description": "FALKAOH CONSULTING organise des ateliers, séminaires, colloques, conférences et cafés de réflexion animés par des experts, en lien avec ses domaines d’expertise, pour renforcer les capacités des participants et favoriser le partage de connaissances.",
+    "image": "/images/renforcement.jpg",
+    "imageAlt": "Séminaire de réflexion avec participants et experts",
+    "keyPoints": [
+      "Ateliers pratiques",
+      "Colloques scientifiques",
+      "Séminaires thématiques",
+      "Cafés de réflexion"
+    ],
+    "includes": [
+      "Organisation d’ateliers pratiques",
+      "Animation de séminaires thématiques",
+      "Colloques scientifiques et professionnels",
+      "Conférences d’experts",
+      "Cafés de réflexion inter-acteurs",
+      "Ateliers de partage d’expériences",
+      "Formations participatives",
+      "Tables rondes et débats"
+    ],
+    "audience": [
+      "Praticiens et professionnels",
+      "Chercheurs et experts",
+      "Representants institutionnels",
+      "Organisations de la société civile"
+    ],
+    "benefits": [
+      "Renforcer les compétences pratiques",
+      "Favoriser le partage de bonnes pratiques",
+      "Créer des synergies entre acteurs",
+      "Actualiser les connaissances et outils"
+    ],
+    "useCases": [
+      "Atelier de formation sur mesure",
+      "Colloque thématique intersectoriel",
+      "Café de réflexion sur la gouvernance",
+      "Séminaire de restitution de projet"
+    ],
+    "process": [
+      "Diagnostic des besoins de formation",
+      "Conception du programme et logistique",
+      "Animation et animation interactive",
+      "Évaluation et capitalisation"
+    ],
+    "relatedSlugs": [
+      "cooperation-developpement",
+      "politiques-de-developpement",
+      "digitalisation"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Réalisation des projets et études de faisabilité",
+    "slug": "realisation-projets-etudes-faisabilite",
+    "icon": "folder-kanban",
+    "summary": "Etude de faisabilité, Maturation des projets, Mise en œuvre, Suivi Evaluation, Pérennité ",
+    "description": "FALKAOH CONSULTING prend en charge le montage, la mise en œuvre et le suivi-évaluation des projets de développement et des études de faisabilité, en mobilisant une méthodologie rigoureuse et une coordination efficace entre les partenaires.",
+    "image": "/images/realisation.jpg",
+    "imageAlt": "Équipe de projet en réunion de suivi",
+    "keyPoints": [
+      "Montage de projet",
+      "Mise en œuvre opérationnelle",
+      "Suivi-évaluation",
+      "Études de faisabilité"
+    ],
+    "includes": [
+      "Montage et structuration de projets",
+      "Études de faisabilité et d’impact",
+      "Coordination des partenaires",
+      "Mise en œuvre opérationnelle",
+      "Suivi et évaluation des résultats",
+      "Gestion des risques projet",
+      "Rapports d’avancement et livrables",
+      "Clôture et capitalisation"
+    ],
+    "audience": [
+      "Pouvoirs publics",
+      "Organismes de coopération",
+      "Organisations de la société civile",
+      "Promoteurs et bailleurs"
+    ],
+    "benefits": [
+      "Garantir la réussite du projet",
+      "Réduire les délais et dépassements",
+      "Assurer une meilleure qualité de réalisation",
+      "Faciliter le suivi-évaluation rigoureux"
+    ],
+    "useCases": [
+      "Montage d’un projet de développement",
+      "Étude de faisabilité d’investissement",
+      "Suivi-évaluation d’un programme",
+      "Coordination d’un projet multi-partenaires"
+    ],
+    "process": [
+      "Analyse des besoins et cadrage du projet",
+      "Montage et mobilisation des partenaires",
+      "Mise en œuvre et suivi opérationnel",
+      "Évaluation et capitalisation finale"
+    ],
+    "relatedSlugs": [
+      "etudes-recherches",
+      "controle-audit",
+      "etude-conseil-architecture"
+    ]
+  }
+]
